@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DisPatchAndRedirection"
+  id="myeclipse.1528727614279"
+  context-root="/DisPatchAndRedirection"
+  j2ee-spec="5.0"
+  archive="DisPatchAndRedirection.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

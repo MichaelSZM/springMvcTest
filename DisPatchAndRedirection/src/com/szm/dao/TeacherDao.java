@@ -1,0 +1,1 @@
+package com.szm.dao;import java.util.List;import com.szm.entity.Teacher;public interface TeacherDao {    List<Teacher> findAll();    Teacher findById(int id);    void save(Teacher t);    void update(Teacher t);    void delete(int id);}
